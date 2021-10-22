@@ -1,0 +1,2 @@
+# hit
+Git for Humans
